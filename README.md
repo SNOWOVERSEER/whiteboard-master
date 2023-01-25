@@ -25,5 +25,5 @@ java -cp distributed-shared-whiteboard-1.0-SNAPSHOT-jar-with-dependencies.jar wh
 Please provide three command line arguments, i.e., the server IP address, the server port, and the username.
 
 ```sh
-java -cp distributed-shared-whiteboard-1.0-SNAPSHOT-jar-with-dependencies.jar whiteboard.User 127.0.0.1 8888 David
+java -cp distributed-shared-whiteboard-1.0-SNAPSHOT-jar-with-dependencies.jar whiteboard.User 127.0.0.1 8888 Yuxuan
 ```
